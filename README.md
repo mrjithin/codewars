@@ -1,7 +1,7 @@
 # codewars
 ![valoruz-codewars-badge](https://www.codewars.com/users/valoruz/badges/large)
 
-Many codewars challenge solutions in JavaScript. The content will be continuously added. (Please star this repo to show support).
+Many codewars kata solutions in JavaScript. The contents will be continuously added. (Please star this repo to show support).
 
 ---
 
